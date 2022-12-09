@@ -60,12 +60,12 @@
 Разпишете какви frameworks/модули/библиотеки ще използвате за проектите си - Django, Flask, Numpy и Pandas, PyQt или Pygame, etc.
 
 ```
-Библиотека за комуникация с IoT-интегриран микрофон (все още не е ясно коя).
+Библиотека за комуникация с IoT-интегриран микрофон (все още не е ясно коя)
 Google Cloud Speech (pip install google-cloud-speech)
 Cryptography module (pip install cryptography)
 HTTP/requests module
 asyncio module?
-i2c интерфейс към термостата на камерата.
+i2c интерфейс към термостата на камерата
 ```
 
 # Бел. ред.
